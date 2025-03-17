@@ -1,6 +1,6 @@
 # Food Sharing Website 
 ## Purpose 
-- This is a food sharing website her a man can post her/his food and if needed they can also edit it there have also a backend server and api a man can buy any of the user posted item if he have need any food 
+- This is a food sharing website here a man can post her/his food and if needed they can also edit it there have also a backend server and api a man can buy any of the user posted item if he have need any food 
 ## Live URL - https://food-sharing-1e66d.web.app/
  
 ## Key Feature 
